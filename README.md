@@ -10,3 +10,5 @@ SJImage4: https://stock.adobe.com/search?k=economic+justice 
 SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
 SJImage6: https://www.facebook.com/groups/1016906918423966/ 
 Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+Disabiltiymasthead: http://1.bp.blogspot.com/-EUF4-ppUE7A/VSF56Z1pBQI/AAAAAAAAAKE/kIis11bHJmw/s1600/Hidden%2Bdisability.jpg
+Support for Students with Hidden Disabilities in University: A Case Study
